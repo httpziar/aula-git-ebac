@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Elisiar
+-Profissão: Auxiliar de planejamento
+-Cidade: Conceição do Mato dentro
+-O que faz nas horas vaga: estudo e vejo videos
+-Feedback sobre o curso Qualidade de Software: Muito bom facil aprendizado e bons professores
+-Feedback sobre a plataforma de estudo da EBAC: Boa Facil entendimento e muito intuituiva 
 
 Obrigado!!!
 
